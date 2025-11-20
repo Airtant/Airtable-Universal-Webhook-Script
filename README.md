@@ -1,4 +1,5 @@
 # 🚀 Airtable Universal Webhook Script
+[![Maintained by Khan](https://img.shields.io/badge/Maintained%20by-Khan-blueviolet?style=for-the-badge)]([https://github.com/yourusername/yourrepo#hi-there-im-khan-](https://github.com/Airtant/Airtable-Universal-Webhook-Script/edit/main/README.md#author))
 
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -151,3 +152,17 @@ try {
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+
+### Hi there, I'm Khan 👋
+I’m the Lead Developer at **Airtant**, where we build specialized solutions for the Airtable ecosystem. I bridge the gap between standard Airtable features and complex backend requirements using JavaScript, Webhooks, and Data Scraping.
+
+- 🔬 I’m currently building robust scripts and extensions to power **Airtant's** automation suite.
+- ⚡️ I specialize in handling large datasets, API integrations, and "impossible" Airtable workflows.
+- 🌱 I’m constantly exploring advanced Node.js patterns to optimize Airtable scripting performance.
+- 👯‍♂️ I’m open to collaboration on open-source Airtable tools and data extraction pipelines.
+- 🗯 Ask me about Scripting Block, Regex, API Connectivity, and Database Architecture.
+
+### 🎓 Certifications
+![Airtable Certified](https://img.shields.io/badge/Airtable-Certified-blue?style=for-the-badge&logo=airtable&logoColor=white) ![Make.com Certified](https://img.shields.io/badge/Make.com-Certified-purple?style=for-the-badge&logo=make&logoColor=white) ![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance&logoColor=white)
