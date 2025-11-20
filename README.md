@@ -1,15 +1,9 @@
 # 🚀 Airtable Universal Webhook Script
-[![Maintained by Khan](https://img.shields.io/badge/Maintained%20by-Khan-blueviolet?style=for-the-badge)]([https://github.com/yourusername/yourrepo#hi-there-im-khan-](https://github.com/Airtant/Airtable-Universal-Webhook-Script/edit/main/README.md#author))
-
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FCC624?style=for-the-badge&logo=webhooks&logoColor=black)
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
-![License](https://img.shields.io/github/license/yourusername/yourrepo?style=flat-square)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
+[![Maintained by Khan](https://img.shields.io/badge/Maintained%20by-Khan-blueviolet?style=for-the-badge)](https://github.com/Airtant/Airtable-Universal-Webhook-Script#author)
 
 A robust, "copy-paste" JavaScript solution for **Airtable Automations**. This script acts as a universal HTTP client, allowing you to send **GET** or **POST** requests to any external API or Webhook (Zapier, Make, Stripe, OpenAI, etc.) directly from Airtable.
 
