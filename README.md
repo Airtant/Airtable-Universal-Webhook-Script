@@ -147,7 +147,7 @@ try {
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
+## ✍️ Author
 
 ### Hi there, I'm Khan 👋
 I’m the Lead Developer at **Airtant**, where we build specialized solutions for the Airtable ecosystem. I bridge the gap between standard Airtable features and complex backend requirements using JavaScript, Webhooks, and Data Scraping.
