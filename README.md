@@ -143,10 +143,6 @@ try {
     throw error;
 }
 ```
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ✍️ Author
 
 ### Hi there, I'm Khan 👋
@@ -160,3 +156,6 @@ I’m the Lead Developer at **Airtant**, where we build specialized solutions fo
 
 ### 🎓 Certifications
 ![Airtable Certified](https://img.shields.io/badge/Airtable-Certified-blue?style=for-the-badge&logo=airtable&logoColor=white) ![Make.com Certified](https://img.shields.io/badge/Make.com-Certified-purple?style=for-the-badge&logo=make&logoColor=white) ![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
